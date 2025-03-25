@@ -20,7 +20,6 @@
 ## Technologies Used
 ✅ **.NET Framework / .NET Core**  
 ✅ **C#** for game logic and mechanics  
-✅ **MonoGame / Unity** for game development  
 ✅ **WinForms / WPF** for UI elements  
 ✅ **DirectX / OpenGL** for rendering  
 
@@ -28,7 +27,6 @@
 ### Prerequisites
 Ensure you have the following installed:
 - [.NET SDK](https://dotnet.microsoft.com/download)
-- [MonoGame](https://www.monogame.net/) (if using MonoGame)
 - [Visual Studio](https://visualstudio.microsoft.com/) or any C# compatible IDE
 
 ### Clone the Repository
@@ -44,13 +42,13 @@ dotnet run
 ```
 
 ## Controls
-| Action  | Keyboard | Gamepad |
-|---------|---------|---------|
-| Move Up | Up Arrwo Key       | D-Pad Up / Left Stick |
-| Move Down | Down Arrow Key     | D-Pad Down / Left Stick |
-| Move Left | Left Arrow Key     | D-Pad Left / Left Stick |
-| Move Right | Right Arrow Key    | D-Pad Right / Left Stick |
-| Shoot | Space   | A / RT |
+| Action  | Keyboard |
+|---------|---------|
+| Move Up | Up Arrwo Key       |
+| Move Down | Down Arrow Key     |
+| Move Left | Left Arrow Key     |
+| Move Right | Right Arrow Key    |
+| Shoot | Space   |
 
 ## Why Play Danger Land?
 If you love classic arcade shooters like **Galaga, Space Invaders, or R-Type**, then **Danger Land** brings back the retro space shooter experience with modern graphics and gameplay mechanics. Get ready for an **action-packed, visually stunning, and highly addictive** space adventure! 🌠
