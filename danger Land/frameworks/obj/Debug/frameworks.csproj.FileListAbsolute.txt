@@ -1,0 +1,9 @@
+D:\Semester 2\OOP\Frame Work\frameworks\bin\Debug\frameworks.dll
+D:\Semester 2\OOP\Frame Work\frameworks\bin\Debug\frameworks.pdb
+D:\Semester 2\OOP\Frame Work\frameworks\obj\Debug\frameworks.csproj.AssemblyReference.cache
+D:\Semester 2\OOP\Frame Work\frameworks\obj\Debug\frameworks.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOP\Frame Work\frameworks\obj\Debug\frameworks.dll
+D:\Semester 2\OOP\Frame Work\frameworks\obj\Debug\frameworks.pdb
+D:\Semester 2\OOP\Frame Work\frameworks\bin\Debug\EZInput.dll
+D:\Semester 2\OOP\Frame Work\frameworks\bin\Debug\EZInput.xml
+D:\Semester 2\OOP\Frame Work\frameworks\obj\Debug\frameworks.csproj.CopyComplete
