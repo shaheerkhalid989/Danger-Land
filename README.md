@@ -58,3 +58,11 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or c
 
 ## Contact
 For any questions or suggestions, reach out via **mshaheerkhalid989@gmail.com** 
+
+# Wireframes
+
+![Screenshot 2025-03-24 135210](https://github.com/user-attachments/assets/33e52fef-adc0-404a-bd91-73f99d1545d9)
+![Screenshot 2025-03-24 135201](https://github.com/user-attachments/assets/524a5c2d-6487-4f8c-b75f-1ed423818d5d)
+![Screenshot 2025-03-24 135322](https://github.com/user-attachments/assets/9acec9ba-cccd-4b2b-b3b2-7cb1b42b9c6e)
+![Screenshot 2025-03-24 135348](https://github.com/user-attachments/assets/5a8c1a5c-bb61-4c8a-b98b-de57957811b0)
+![Screenshot 2025-03-24 135412](https://github.com/user-attachments/assets/94e910c1-1950-4434-9d64-cd8dadd968f4)
